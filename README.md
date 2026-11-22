@@ -1,2 +1,1 @@
-# jarvis-updates
-Jarvis AI automatic updates
+# Jarvis Updates\nPublic release channel. Push a tag such as `v22.0.0` to build update assets.\n

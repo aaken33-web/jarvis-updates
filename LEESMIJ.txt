@@ -1,0 +1,22 @@
+JARVIS 3.0 - INSTALLATIE
+
+1. Sluit Jarvis 2.0.
+2. Maak een back-up van C:\AI-Assistent\agent\jarvis_app.py
+3. Pak deze ZIP uit.
+4. Kopieer jarvis_app.py en Start Jarvis.bat naar C:\AI-Assistent\agent\
+5. Start met Start Jarvis.bat.
+
+De bestaande database C:\AI-Assistent\geheugen\geheugen.db blijft behouden.
+Jarvis voegt alleen ontbrekende tabellen toe.
+
+Nieuw:
+- Geheugenvoorstellen op basis van gesprek; opslaan pas na jouw toestemming.
+- Geheugenbeheer.
+- Gesprekslogboek in SQLite.
+- Takenlijst en eenvoudige goedgekeurde lokale acties.
+- Spraakpagina en optionele spraakbibliotheken.
+
+Let op:
+De spraakpagina is voorbereid, maar live microfoonherkenning en TTS zijn nog niet aangesloten.
+De agent voert geen willekeurige opdrachten uit. Programma's starten vraagt bevestiging.
+Ollama blijft lokaal op 127.0.0.1.
